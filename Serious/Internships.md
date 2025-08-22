@@ -1,5 +1,5 @@
 - IITB- email replied cant apply 
-- IIITH- Email reminder 
+- **IIITH- Email reminder** 
 - Phillips- No reply 
 - Mecha- Talk to Shoaib
 - ABB

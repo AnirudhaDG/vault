@@ -4,67 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "befd5273be38e598",
+        "id": "0999c263cd1797f2",
         "type": "tabs",
         "children": [
           {
-            "id": "368b8e998f81814c",
+            "id": "44eaa8146f95316d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GRE Schedule.md",
-                "mode": "source",
-                "source": false
+                "file": "Mecha/Flow.canvas",
+                "viewState": {
+                  "x": 455.6991539793522,
+                  "y": -133.3952168937343,
+                  "zoom": -0.9999999205271433
+                }
               },
-              "icon": "lucide-file",
-              "title": "GRE Schedule"
+              "icon": "lucide-layout-dashboard",
+              "title": "Flow"
             }
           },
           {
-            "id": "2d13c60517f36078",
+            "id": "b66dcf2489bdb548",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Rough.md",
-                "mode": "source",
-                "source": false
+                "file": "Mecha/Flow.canvas",
+                "viewState": {
+                  "x": 64.21836395954588,
+                  "y": -154.96840591659367,
+                  "zoom": -0.5555555334797619
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rough"
+              "icon": "lucide-layout-dashboard",
+              "title": "Flow"
             }
           },
           {
-            "id": "9a12182398f6cb4e",
+            "id": "cdf038bae90d35f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mecha/UART Spec Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "UART Spec Sheet"
             }
           },
           {
-            "id": "002aba981247b151",
+            "id": "929846ead5553b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masters in Robotics Engineering.md",
+                "file": "Mecha/I2C Spec Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Masters in Robotics Engineering"
+              "title": "I2C Spec Sheet"
+            }
+          },
+          {
+            "id": "00c0c61c401e5531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecha/USB Spec Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USB Spec Sheet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,14 +229,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a12182398f6cb4e",
+  "active": "44eaa8146f95316d",
   "lastOpenFiles": [
-    "ideas.md",
+    "Mecha/USB Spec Sheet.md",
+    "Mecha/I2C Spec Sheet.md",
+    "Mecha/UART Spec Sheet.md",
+    "Mecha/Flow.canvas",
+    "Mecha/Data Packet Spec.md",
+    "Mecha/Flow of Detection and Identification.md",
+    "WhatsApp Image 2025-06-20 at 2.05.50 AM.jpeg",
+    "ss.md",
+    "Mecha",
+    "Untitled.canvas",
+    "2025-08-23.md",
+    "BKCD",
+    "Serious/GRE Schedule.md",
+    "Serious",
+    "Serious/Internships.md",
+    "BKCD/Rough.md",
     "README.md",
-    "Rough.md",
-    "Masters in Robotics Engineering.md",
-    "GRE Schedule.md",
-    "Internships.md",
+    "BKCD/ideas.md",
+    "Serious/Masters in Robotics Engineering.md",
     "Jobs.md",
     "master",
     "https:/github.com/AnirudhaDG/vault.git",
