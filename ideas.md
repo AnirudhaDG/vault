@@ -1,0 +1,2 @@
+- the art of being cool
+- the jack of all trades
