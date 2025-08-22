@@ -15,9 +15,9 @@
               "state": {
                 "file": "Mecha/Flow.canvas",
                 "viewState": {
-                  "x": 455.6991539793522,
-                  "y": -133.3952168937343,
-                  "zoom": -0.9999999205271433
+                  "x": 479.0378478441021,
+                  "y": 61.7937661458876,
+                  "zoom": -0.666666600439286
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -229,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44eaa8146f95316d",
+  "active": "f273b11c2059de04",
   "lastOpenFiles": [
     "Mecha/USB Spec Sheet.md",
     "Mecha/I2C Spec Sheet.md",
@@ -242,13 +242,13 @@
     "Mecha",
     "Untitled.canvas",
     "2025-08-23.md",
-    "BKCD",
+    "general",
     "Serious/GRE Schedule.md",
     "Serious",
     "Serious/Internships.md",
-    "BKCD/Rough.md",
+    "general/Rough.md",
     "README.md",
-    "BKCD/ideas.md",
+    "general/ideas.md",
     "Serious/Masters in Robotics Engineering.md",
     "Jobs.md",
     "master",
