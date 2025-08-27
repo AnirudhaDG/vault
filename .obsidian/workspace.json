@@ -4,83 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0999c263cd1797f2",
+        "id": "fca913e4ae01979d",
         "type": "tabs",
         "children": [
           {
-            "id": "44eaa8146f95316d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mecha/Flow.canvas",
-                "viewState": {
-                  "x": 479.0378478441021,
-                  "y": 61.7937661458876,
-                  "zoom": -0.666666600439286
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Flow"
-            }
-          },
-          {
-            "id": "b66dcf2489bdb548",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mecha/Flow.canvas",
-                "viewState": {
-                  "x": 64.21836395954588,
-                  "y": -154.96840591659367,
-                  "zoom": -0.5555555334797619
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Flow"
-            }
-          },
-          {
-            "id": "cdf038bae90d35f1",
+            "id": "fadf35a2d54caa82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecha/UART Spec Sheet.md",
+                "file": "03. Serious/Masters in Robotics Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UART Spec Sheet"
-            }
-          },
-          {
-            "id": "929846ead5553b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecha/I2C Spec Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I2C Spec Sheet"
-            }
-          },
-          {
-            "id": "00c0c61c401e5531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecha/USB Spec Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "USB Spec Sheet"
+              "title": "Masters in Robotics Engineering"
             }
           }
         ]
@@ -226,30 +164,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f273b11c2059de04",
+  "active": "fadf35a2d54caa82",
   "lastOpenFiles": [
-    "Mecha/USB Spec Sheet.md",
-    "Mecha/I2C Spec Sheet.md",
-    "Mecha/UART Spec Sheet.md",
-    "Mecha/Flow.canvas",
-    "Mecha/Data Packet Spec.md",
-    "Mecha/Flow of Detection and Identification.md",
+    "03. Serious/Applying 2026.md",
+    "03. Serious/Masters in Robotics Engineering.md",
+    "01. General/ideas.md",
+    "Untitled 1.md",
+    "Party.md",
+    "README.md",
+    "02. Mecha/01.Flow of Detection and Identification.md",
+    "01. General/Robotics- A little bit of everything.md",
+    "01. General/Rough.md",
+    "02. Mecha/05.USB Spec Sheet.md",
+    "02. Mecha/03.UART Spec Sheet.md",
+    "02. Mecha/02.Data Packet Spec.md",
+    "02. Mecha/request_frame.png",
+    "02. Mecha/response_frame_f.jpg",
+    "02. Mecha/Flow.canvas",
+    "Agro-Bot.md",
+    "03. Serious/Internships.md",
+    "().md",
+    "Robotics-.md",
+    "Untitled.base",
+    "02. Mecha/04.I2C Spec Sheet.md",
+    "01. General/Drawing 2025-08-23 12.29.55.excalidraw.md",
+    "Excalidraw",
+    "03. Serious/GRE Schedule.md",
+    "Excalidraw/Drawing 2025-08-23 01.00.26.excalidraw.md",
     "WhatsApp Image 2025-06-20 at 2.05.50 AM.jpeg",
     "ss.md",
-    "Mecha",
+    "02. Mecha",
     "Untitled.canvas",
     "2025-08-23.md",
-    "general",
-    "Serious/GRE Schedule.md",
-    "Serious",
-    "Serious/Internships.md",
-    "general/Rough.md",
-    "README.md",
-    "general/ideas.md",
-    "Serious/Masters in Robotics Engineering.md",
+    "01. General",
+    "03. Serious",
     "Jobs.md",
     "master",
     "https:/github.com/AnirudhaDG/vault.git",

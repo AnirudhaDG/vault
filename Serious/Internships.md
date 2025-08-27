@@ -1,7 +1,0 @@
-- IITB- email replied cant apply 
-- **IIITH- Email reminder** 
-- Phillips- No reply 
-- Mecha- Talk to Shoaib
-- ABB
-- Qualcomm
-- 10x

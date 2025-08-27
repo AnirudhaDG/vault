@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "accentColor": "#ff9124",
+  "monospaceFontFamily": "Courier",
+  "textFontFamily": "Courier",
+  "interfaceFontFamily": "Courier New"
+}
