@@ -4,6 +4,7 @@
 	- 15th Nov- 15 Dec (Early)
 	- CHF 2190
 	- 2 years
+	- cg cutoff not met
 - ### NUS
 	- https://cde.nus.edu.sg/me/graduate/msc-robotics/
 	- 1st October- 28th Feb
