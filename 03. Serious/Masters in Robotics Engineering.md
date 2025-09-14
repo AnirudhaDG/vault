@@ -9,6 +9,10 @@
 	- https://cde.nus.edu.sg/me/graduate/msc-robotics/
 	- 1st October- 28th Feb
 	- $66,000
+- ## NTU
+	- https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-computer-control-automation#curriculum
+	- 4th November
+	- FEES: 38L
 - ### TU Delft
 	- https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics
 	- 15th January
@@ -22,17 +26,17 @@
 - ### University of Manchester (MSc Robotics)
 	- https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/
 	- 36000 pounds + living
-	- Deadline Stage 1- 25th October
+	- Deadline Stage 1- 16th to 25th October
 	- 1 year
-- ### UNSW Sydney
-	- https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-robotics
-	- Scholarships- https://www.unsw.edu.au/study/how-to-apply/scholarships- relatively easy $20000
-	- 1-2 years
-	- $121000
-	- Deadline- Thursday 19 February 2026
+- ### Imperial
+	- https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/vcr/
+- ### Kings
+	- https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc
+
 
 # 2026 application 
 1. NUS
-2. TU Delft
-3. KTH
-4. EPFL
+2. NTU
+3. TU Delft
+4. KTH
+5. EPFL
