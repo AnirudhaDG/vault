@@ -1,8 +1,11 @@
 {
-  "cssTheme": "Primary",
-  "theme": "moonstone",
-  "accentColor": "#ff9124",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "#24b6ff",
   "monospaceFontFamily": "Courier",
   "textFontFamily": "Courier",
-  "interfaceFontFamily": "Courier New"
+  "interfaceFontFamily": "Courier New",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }

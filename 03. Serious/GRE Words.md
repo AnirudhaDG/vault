@@ -125,9 +125,7 @@
     
 
 **ascetic**
-
 - **Meaning:** practicing severe self-discipline and abstention
-    
 - **Sentence:** The **ascetic** monk lived a life of prayer and meditation, without any worldly possessions.
     
 
@@ -566,278 +564,203 @@
     
 
 **unswerving**
-
-- **Meaning:** not changing or becoming weaker; constant
-    
+- **Meaning:** not changing or becoming weaker; constant 
 - **Sentence:** His **unswerving** loyalty to his friends was admirable.
     
 
 **tepid**
-
 - **Meaning:** only slightly warm; lukewarm
-    
 - **Sentence:** The **tepid** soup was a disappointment after a cold day.
-    
 
 **indulged**
-
 - **Meaning:** allowed oneself to enjoy the pleasure of
-    
 - **Sentence:** She **indulged** in a large slice of chocolate cake after her diet.
     
 
 **harried**
-
 - **Meaning:** feeling strained as a result of having demands persistently made on one; harassed
-    
 - **Sentence:** The **harried** mother tried to manage her crying baby and a shopping cart.
     
 
 **upbraid**
-
 - **Meaning:** to scold
-    
 - **Sentence:** The coach **upbraided** the team for their poor performance.
     
 
 **prodigal**
-
-- **Meaning:** rashly or wastefully extravagant
-    
+- **Meaning:** rashly or wastefully extravagant  
 - **Sentence:** The **prodigal** son spent all his inheritance on lavish parties.
     
 
 **mercurial**
-
-- **Meaning:** rapid changes in mood
-    
+- **Meaning:** rapid changes in mood 
 - **Sentence:** His **mercurial** temperament made him difficult to work with.
     
 
 **acrimony**
-
-- **Meaning:** bitterness and ill will
-    
+- **Meaning:** bitterness and ill will  
 - **Sentence:** The divorce was filled with **acrimony** and resentment.
     
 
 **restive**
-
-- **Meaning:** to be in a state of restlessness
-    
+- **Meaning:** to be in a state of restlessness   
 - **Sentence:** The crowd grew **restive** as they waited for the concert to begin.
     
 
 **vindicate**
-
-- **Meaning:** to clear of accusation
-    
+- **Meaning:** to clear of accusation 
 - **Sentence:** The DNA evidence was used to **vindicate** the man who had been wrongfully convicted.
     
 
 **venality**
-
-- **Meaning:** being susceptible to bribes
-    
+- **Meaning:** being susceptible to bribes 
 - **Sentence:** The politician was known for his **venality**, accepting money for favors.
     
 
 **veracious**
-
-- **Meaning:** truthful
-    
+- **Meaning:** truthful  
 - **Sentence:** She was known as a **veracious** source of information.
     
 
 **extant**
-
-- **Meaning:** opposite of extinct
-    
+- **Meaning:** opposite of extinct   
 - **Sentence:** There are only a few **extant** manuscripts of the ancient text.
     
 
 **chastise**
-
 - **Meaning:** to reprimand
-    
 - **Sentence:** The teacher had to **chastise** the student for talking during the lecture.
     
 
 **profligate**
-
 - **Meaning:** recklessly extravagant or wasteful
-    
 - **Sentence:** He was a **profligate** spender, burning through his money without a thought.
     
 
 **frugal**
-
-- **Meaning:** sparing or economical with regard to money or food
-    
+- **Meaning:** sparing or economical with regard to money or food 
 - **Sentence:** Despite her wealth, she lived a **frugal** lifestyle.
     
 
 **besieged**
-
 - **Meaning:** to surround with armed forces in order to capture it or force its surrender
-    
 - **Sentence:** The city was **besieged** by the enemy for weeks.
     
 
 **disbarred**
-
 - **Meaning:** to remove an attorney from the practice of law
-    
 - **Sentence:** The lawyer was **disbarred** after being convicted of fraud.
     
 
 **feted**
-
 - **Meaning:** to honor or entertain (someone) lavishly
-    
 - **Sentence:** The returning hero was **feted** with a parade and a feast.
     
 
 **amiable**
-
 - **Meaning:** having or displaying a friendly and pleasant manner
-    
 - **Sentence:** She was so **amiable** that she made friends wherever she went.
     
 
 **demur**
-
 - **Meaning:** to object
-    
 - **Sentence:** The committee member **demurred** at the proposal, saying it was too risky.
     
 
 **equivocal**
-
 - **Meaning:** open to more than one interpretation; ambiguous
-    
 - **Sentence:** His response was **equivocal**, leaving us unsure of his true feelings.
     
 
 **egregious**
-
 - **Meaning:** standing out in a negative way; shockingly bad
-    
 - **Sentence:** It was an **egregious** error that cost the company millions of dollars.
     
 
 **laconic**
-
 - **Meaning:** to use very few words
-    
 - **Sentence:** His **laconic** reply told me everything I needed to know.
     
 
 **exegesis**
-
-- **Meaning:** critical explanation or interpretation of a text, especially of scripture
-    
+- **Meaning:** critical explanation or interpretation of a text, especially of scripture 
 - **Sentence:** The scholar's **exegesis** of the ancient text revealed new insights.
     
 
 **superfluous**
-
 - **Meaning:** unnecessary, especially through being more than enough
-    
 - **Sentence:** The extra security guards were **superfluous** since the crowd was so small.
     
 
 **dishevel**
-
 - **Meaning:** to make (a person's hair or clothes) untidy
-    
 - **Sentence:** He arrived at the meeting with his hair **disheveled** and his clothes wrinkled.
     
 
 **benighted**
-
 - **Meaning:** in a state of intellectual or moral ignorance
-    
 - **Sentence:** The village was in a **benighted** state, cut off from the outside world.
     
 
 **reprising**
-
 - **Meaning:** to repeat a performance or a piece of music
-    
 - **Sentence:** The band was **reprising** some of their most popular songs from the 90s.
     
 
 **impugning**
-
 - **Meaning:** to dispute the truth, validity, or honesty of (a statement or motive); to challenge
-    
 - **Sentence:** The defense attorney was **impugning** the credibility of the witness.
     
 
 **quotidian**
-
 - **Meaning:** of or occurring every day; daily
-    
 - **Sentence:** The book focused on the **quotidian** details of life in a small town.
-    
 
 **intrepid**
-
-- **Meaning:** fearless; adventurous
-    
+- **Meaning:** fearless; adventurous 
 - **Sentence:** The **intrepid** explorers set out to climb the unknown mountain.
     
 
 **culpability**
-
 - **Meaning:** a state of being responsible for a fault or wrong
-    
 - **Sentence:** The investigation revealed his **culpability** in the fraud.
     
 
 **lamented**
-
 - **Meaning:** a passionate expression of grief or sorrow
-    
 - **Sentence:** The poet **lamented** the loss of her friend in her latest work.
     
 
 **ephemeral**
-
 - **Meaning:** lasting for a very short time
-    
 - **Sentence:** The beauty of the cherry blossoms is **ephemeral**.
-    
 
 **undergird**
-
 - **Meaning:** to provide a strong basis for
-    
 - **Sentence:** The evidence from the crime scene helped to **undergird** the prosecution's case.
     
-
 **approbatory**
-
 - **Meaning:** expressing approval
-    
 - **Sentence:** The reviewers' **approbatory** comments made the author very happy.
-    
 
 **admonitory**
-
 - **Meaning:** giving or conveying a warning or reprimand
-    
 - **Sentence:** The teacher gave the student an **admonitory** glance.
-    
 
 **mollify**
-
 - **Meaning:** to appease the anger or anxiety of (someone)
-    
 - **Sentence:** He tried to **mollify** her with a sincere apology.
-    
 
+**veneration**
+- Meaning: great respect
+- Synonyms: Reverent
+
+**Pragmatism**
+- meaning: success based on practical application
+
+**prudent**
+- meaning: of good judgement
+    
 ---
 
 ### Common GRE Words
